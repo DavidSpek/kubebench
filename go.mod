@@ -14,7 +14,7 @@ require (
 	github.com/googleapis/gnostic v0.2.0 // indirect
 	github.com/gregjones/httpcache v0.0.0-20190212212710-3befbb6ad0cc // indirect
 	github.com/hashicorp/golang-lru v0.5.1 // indirect
-	github.com/imdario/mergo v0.3.7
+	github.com/imdario/mergo v0.3.11
 	github.com/json-iterator/go v1.1.6 // indirect
 	github.com/kubeflow/mpi-operator v0.0.0-20190629143922-c9c91b690f87
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
